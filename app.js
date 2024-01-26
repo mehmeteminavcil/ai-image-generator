@@ -3,7 +3,7 @@ const imageGallery = document.querySelector('.image-gallery')
 const generateBtn = generateForm.querySelector(".generate-btn")
 
 
-const OPENAI_API_KEY = "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"
+const OPENAI_API_KEY = "here"
 
 let isImageGenerating = false;
 
